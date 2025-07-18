@@ -11,6 +11,10 @@ The Data analysis project aims at identifying gender disparities in pay,ratings 
 ### Tools Used
 Power BI - (Power Query, DAX measures and Visuals).
 
-### Data Cleaning and Preparation 
+### Data Cleaning and Preparation
+1. Assigned "Unspecified" to blank records under the "Gender" column.
+2. Removed records with NULL departments and no salary
+
+
 
 
