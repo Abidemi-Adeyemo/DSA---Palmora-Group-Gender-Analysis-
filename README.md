@@ -17,7 +17,10 @@ Power BI - (Power Query, DAX measures and Visuals).
 3. Standardized data types for consistency.
 
 ### Findings
-
+1. Total Number of Employees = 874
+2. Male = ; Female = ; Unspecified =
+3. Most balanced region in terms of gender = Lagos
+4. Male dominated departments = Product Management,
 
 
 
