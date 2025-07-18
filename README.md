@@ -13,7 +13,11 @@ Power BI - (Power Query, DAX measures and Visuals).
 
 ### Data Cleaning and Preparation
 1. Assigned "Unspecified" to blank records under the "Gender" column.
-2. Removed records with NULL departments and no salary
+2. Removed records with NULL departments and no salary.
+3. Standardized data types for consistency.
+
+### Findings
+
 
 
 
