@@ -27,5 +27,10 @@ Power BI - (Power Query, DAX measures and Visuals).
 8. Average Female Rating = 3.05
 9. The slight difference between male and female rating shows that there is slight bias in the performance system.
 
+### Recommendations 
+1. Review Performance System
+2. Conduct pay equity audit
+3. Adjust salaries for underpaid employees.
+
 
 
