@@ -1,5 +1,5 @@
-# DSA---Palmora-Group-Gender-Analysis-
-This project provides HR analytics report of a manufacturing firm called Palmora Group, following concerns over gender inequality across its departments and regions. 
+# DSA---Palmoria-Group-Gender-Analysis-
+This project provides HR analytics report of a manufacturing firm called Palmora Group, following concerns over gender inequality across its departments and  three (3) regions. 
 
 ### Project Overview 
 The Data analysis project aims at identifying gender disparities in pay,ratings and headcount across departments and regions.
@@ -18,14 +18,11 @@ Power BI - (Power Query, DAX measures and Visuals).
 
 ### Findings
 1. Total Number of Employees = 874
-2. Male = ; Female = ; Unspecified =
+2. Male = 465 ; Female = 441; Unspecified = 40
 3. Most balanced region in terms of gender = Lagos
-4. Male dominated departments = Product Management, Accounting, Legal and Marketing.
-5. Region with the highest Gender Pay Gap = Lagos
-6. Departments with Pay Gaps = Engineering and Services.
-7. Average Male Rating = 3.22
-8. Average Female Rating = 3.05
-9. The slight difference between male and female rating shows that there is slight bias in the performance system.
+4. Region with the highest Gender Pay Gap = Lagos
+5. Departments with Pay Gaps = Engineering and Services.
+6. There is slight difference between male and female rating shows that there is slight bias in the performance system.
 
 ### Recommendations 
 1. Review Performance System
