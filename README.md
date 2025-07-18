@@ -22,7 +22,10 @@ Power BI - (Power Query, DAX measures and Visuals).
 3. Most balanced region in terms of gender = Lagos
 4. Male dominated departments = Product Management, Accounting, Legal and Marketing.
 5. Region with the highest Gender Pay Gap = Lagos
-6. Departments with Pay Gaps = Engineering and Services
+6. Departments with Pay Gaps = Engineering and Services.
+7. Average Male Rating = 3.22
+8. Average Female Rating = 3.05
+9. The slight difference between male and female rating shows that there is slight bias in the performance system.
 
 
 
