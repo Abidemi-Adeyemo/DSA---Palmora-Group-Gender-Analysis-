@@ -8,3 +8,9 @@ The Data analysis project aims at identifying gender disparities in pay,ratings 
 1. emp.data.csv: Employee demographic and salary data.
 2. bonus rules.csv: Bonus allocation matrix by departments and performance.
 
+### Tools Used
+Power BI - (Power Query, DAX measures and Visuals).
+
+### Data Cleaning and Preparation 
+
+
