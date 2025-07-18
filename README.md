@@ -20,8 +20,9 @@ Power BI - (Power Query, DAX measures and Visuals).
 1. Total Number of Employees = 874
 2. Male = ; Female = ; Unspecified =
 3. Most balanced region in terms of gender = Lagos
-4. Male dominated departments = Product Management,
-
+4. Male dominated departments = Product Management, Accounting, Legal and Marketing.
+5. Region with the highest Gender Pay Gap = Lagos
+6. Departments with Pay Gaps = Engineering and Services
 
 
 
